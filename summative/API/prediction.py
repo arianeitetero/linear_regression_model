@@ -17,7 +17,7 @@ app = FastAPI(title="Used-car price predictor")
 # does not affect it.
 origins = os.getenv(
     "ALLOWED_ORIGINS",
-    "https://linear-regression-model-api.onrender.com,http://localhost:8080,http://127.0.0.1:8080",
+    "https://linear-regression-model-l4wc.onrender.com,http://localhost:8080,http://127.0.0.1:8080",
 ).split(",")
 
 app.add_middleware(

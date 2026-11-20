@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
 // Public Render URL of the API (change if your service name differs).
-const String apiUrl = 'https://linear-regression-model-api.onrender.com/predict';
+const String apiUrl = 'https://linear-regression-model-l4wc.onrender.com/predict';
 
 void main() => runApp(const CarPriceApp());
 

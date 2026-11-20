@@ -11,7 +11,7 @@ Source: Craigslist vehicles dataset on Kaggle - https://www.kaggle.com/datasets/
 (the file is too large for GitHub, so it is not committed; the notebook expects it at `summative/linear_regression/vehicles.csv`).
 
 ## Public API (Swagger UI)
-https://linear-regression-model-api.onrender.com/docs  <!-- replace with your real Render URL after deploying -->
+https://linear-regression-model-l4wc.onrender.com/docs
 
 The free Render plan sleeps after 15 minutes, so the first request can take up to a minute.
 
