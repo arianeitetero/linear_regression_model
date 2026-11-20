@@ -1,0 +1,10 @@
+# Raw datasets (too large for GitHub). Keep only a small cleaned sample in API/
+summative/linear_regression/vehicles.csv
+summative/linear_regression/TZA_2019_NPD-SDD_v06_M_CSV/
+summative/linear_regression/jme_database_country_model_2025.xlsx
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
